@@ -17,6 +17,7 @@ Outside of work I build small, practical software, mostly for myself, and occasi
 |---|---|---|
 | **[Wazuh-Additions](https://github.com/cybersecurityhandle/Wazuh-Additions)** | Integrates ClamAV malware scanning into Wazuh, so AV detections land in the SIEM next to everything else | Python · Wazuh |
 | **[wazuh-lynis](https://github.com/cybersecurityhandle/wazuh-lynis)** | Runs Lynis hardening audits on Wazuh agents and turns the findings into alerts | Python · Wazuh |
+| **[tor-ovh](https://github.com/cybersecurityhandle/tor-ovh)** | Terraform that rebuilds an OVH dedicated server as a hardened, non-exit Tor relay, with a locked-down firewall and automatic security updates | Terraform · Bash · Tor |
 | **[stuckless-net](https://github.com/cybersecurityhandle/stuckless-net)** | A personal investing dashboard with a watchlist, valuation views built on attributable earnings, and a nightly data refresh | TypeScript · Next.js · Redis |
 | **[cyberlegionnaire](https://github.com/cybersecurityhandle/cyberlegionnaire)** | The CyberLegionnaire website: static, fast, and served from GitHub Pages | HTML · CSS · JS |
 
@@ -31,6 +32,7 @@ Outside of work I build small, practical software, mostly for myself, and occasi
   <img src="https://img.shields.io/badge/Kali-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali">
   <img src="https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white" alt="Wazuh">
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" alt="Terraform">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
 </p>
