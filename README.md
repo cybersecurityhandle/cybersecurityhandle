@@ -15,10 +15,11 @@ Outside of work I build small, practical software, mostly for myself, and occasi
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[Wishday](https://github.com/cybersecurityhandle/wishday)** | An Android app that remembers birthdays and wishes people for you, by automatic SMS or a prefilled Signal message. Private by design: no internet permission, no tracking. [v1.0 release](https://github.com/cybersecurityhandle/wishday/releases/tag/v1.0) | Kotlin · Jetpack Compose |
 | **[Wazuh-Additions](https://github.com/cybersecurityhandle/Wazuh-Additions)** | Integrates ClamAV malware scanning into Wazuh, so AV detections land in the SIEM next to everything else | Python · Wazuh |
 | **[wazuh-lynis](https://github.com/cybersecurityhandle/wazuh-lynis)** | Runs Lynis hardening audits on Wazuh agents and turns the findings into alerts | Python · Wazuh |
 | **[tor-ovh](https://github.com/cybersecurityhandle/tor-ovh)** | Terraform that rebuilds an OVH dedicated server as a hardened, non-exit Tor relay, with a locked-down firewall and automatic security updates | Terraform · Bash · Tor |
-| **[stuckless-net](https://github.com/cybersecurityhandle/stuckless-net)** | A personal investing dashboard with a watchlist, valuation views built on attributable earnings, and a nightly data refresh | TypeScript · Next.js · Redis |
+| **[stuckless-net](https://github.com/cybersecurityhandle/stuckless-net)** | My personal hub, [stuckless.net](https://stuckless.net). It has a live threat intel page (newest CVEs, CISA's list of actively exploited vulnerabilities, exploit probability scores and MITRE ATT&CK threat groups) and investing tools built on attributable earnings | TypeScript · Next.js · Redis |
 | **[cyberlegionnaire](https://github.com/cybersecurityhandle/cyberlegionnaire)** | The CyberLegionnaire website: static, fast, and served from GitHub Pages | HTML · CSS · JS |
 
 ### 🧰 Toolbox
@@ -26,6 +27,8 @@ Outside of work I build small, practical software, mostly for myself, and occasi
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/Android-34A853?style=flat-square&logo=android&logoColor=white" alt="Android">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
