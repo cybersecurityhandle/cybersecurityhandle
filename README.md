@@ -23,7 +23,6 @@ Outside of client work, I build small, practical software, mostly for myself and
 | **[pan-redactor](https://github.com/cybersecurityhandle/pan-redactor)** | Finds payment card numbers in logs and exports, validates them with the Luhn checksum and masks them to PCI DSS rules, entirely in the browser. [Try it](https://cybersecurityhandle.github.io/pan-redactor/) | JavaScript · HTML |
 | **[tor-ovh](https://github.com/cybersecurityhandle/tor-ovh)** | Terraform that rebuilds an OVH dedicated server as a hardened, non-exit Tor relay, with a locked-down firewall and automatic security updates | Terraform · Bash · Tor |
 | **[stuckless-net](https://github.com/cybersecurityhandle/stuckless-net)** | My personal hub, [stuckless.net](https://stuckless.net). It has a live threat intel page (newest CVEs, CISA's list of actively exploited vulnerabilities, exploit probability scores and MITRE ATT&CK threat groups) and investing tools built on attributable earnings | TypeScript · Next.js · Redis |
-| **[cyberlegionnaire](https://github.com/cybersecurityhandle/cyberlegionnaire)** | The CyberLegionnaire website: static, fast, and served from GitHub Pages | HTML · CSS · JS |
 
 ### 🧰 Toolbox
 
