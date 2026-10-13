@@ -7,9 +7,11 @@
   <a href="https://stuckless.net"><img src="https://img.shields.io/badge/stuckless.net-0d1117?style=flat-square&logo=vercel&logoColor=white" alt="stuckless.net"></a>
 </p>
 
-I work on both sides of security: I build detection and hardening tooling for defenders, and I break things on authorized engagements. I run **[CyberLegionnaire](https://cyberlegionnaire.com)**, a security practice that does pentesting, red and purple teaming, managed SOC, and GRC advisory.
+I work on both sides of security: I build detection and hardening tooling for defenders, and I break things on authorized engagements.
 
-Outside of work I build small, practical software, mostly for myself, and occasionally for other people.
+I founded **[CyberLegionnaire](https://cyberlegionnaire.com)**, a security consultancy whose clients include a financial regulatory firm and a REIT. For them, we provide security monitoring, defense-in-depth hardening and security awareness training, and support their cybersecurity compliance with the Ontario Securities Commission (comparable to the SEC's cyber disclosure rules and SOC 2 controls in the US).
+
+Outside of client work, I build small, practical software, mostly for myself and occasionally for other people.
 
 ### 🛡️ Featured work
 
