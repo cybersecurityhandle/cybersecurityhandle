@@ -15,7 +15,7 @@ Outside of work I build small, practical software, mostly for myself, and occasi
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Wishday](https://github.com/cybersecurityhandle/wishday)** | An Android app that remembers birthdays and wishes people for you, by automatic SMS or a prefilled Signal message. Private by design: no internet permission, no tracking. [v1.0 release](https://github.com/cybersecurityhandle/wishday/releases/tag/v1.0) | Kotlin · Jetpack Compose |
+| **[Wishday](https://github.com/cybersecurityhandle/wishday)** | An Android app that remembers birthdays and wishes people for you, by automatic SMS or a prefilled Signal message. Private by design: no internet permission, no tracking. [v1.1 release](https://github.com/cybersecurityhandle/wishday/releases/tag/v1.1) | Kotlin · Jetpack Compose |
 | **[Wazuh-Additions](https://github.com/cybersecurityhandle/Wazuh-Additions)** | Integrates ClamAV malware scanning into Wazuh, so AV detections land in the SIEM next to everything else | Python · Wazuh |
 | **[wazuh-lynis](https://github.com/cybersecurityhandle/wazuh-lynis)** | Runs Lynis hardening audits on Wazuh agents and turns the findings into alerts | Python · Wazuh |
 | **[tor-ovh](https://github.com/cybersecurityhandle/tor-ovh)** | Terraform that rebuilds an OVH dedicated server as a hardened, non-exit Tor relay, with a locked-down firewall and automatic security updates | Terraform · Bash · Tor |
