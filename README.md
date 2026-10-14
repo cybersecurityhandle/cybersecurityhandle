@@ -17,7 +17,7 @@ Outside of client work, I build small, practical software, mostly for myself and
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Wishday](https://github.com/cybersecurityhandle/wishday)** | An Android app that remembers birthdays and wishes people for you, by automatic SMS or a prefilled Signal message. Private by design: no internet permission, no tracking. [v1.1 release](https://github.com/cybersecurityhandle/wishday/releases/tag/v1.1) | Kotlin · Jetpack Compose |
+| **[Wishday](https://github.com/cybersecurityhandle/wishday)** | An Android app that remembers birthdays and wishes people for you, by automatic SMS or a prefilled Signal message. Private by design: no internet permission, no tracking. [Latest release](https://github.com/cybersecurityhandle/wishday/releases/latest) | Kotlin · Jetpack Compose |
 | **[Wazuh-Additions](https://github.com/cybersecurityhandle/Wazuh-Additions)** | Integrates ClamAV malware scanning into Wazuh, so AV detections land in the SIEM next to everything else | Python · Wazuh |
 | **[wazuh-lynis](https://github.com/cybersecurityhandle/wazuh-lynis)** | Runs Lynis hardening audits on Wazuh agents and turns the findings into alerts | Python · Wazuh |
 | **[pan-redactor](https://github.com/cybersecurityhandle/pan-redactor)** | Finds payment card numbers in logs and exports, validates them with the Luhn checksum and masks them to PCI DSS rules, entirely in the browser. [Try it](https://cybersecurityhandle.github.io/pan-redactor/) | JavaScript · HTML |
